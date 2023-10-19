@@ -34,7 +34,7 @@ export default function BrenoProfile() {
                   <MapOutlinedIcon style={{color: '#FDAE17'}}/>                                           
                   {/* Sua cidade aqui: */}
                   <span className="align-items-center" style={{marginLeft: '5px'}}>
-                    Rio Grande, RS
+                    Rio Grande, rg
                   </span>
                 </div>
 
